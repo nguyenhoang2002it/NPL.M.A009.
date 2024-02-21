@@ -84,7 +84,7 @@ namespace NPL.M.A009.Exercise_
         {
             Console.WriteLine("Rotated wing");
         }
-
+        //gfdgdg
         public override string ToString()
         {
             return $"ID: {ID}; Model: {Model}; Plane Type: {PlaneType}; Cruise Speed: {CruiseSpeed};" +
